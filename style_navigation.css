@@ -1,0 +1,54 @@
+#but0{
+    left: 10px;
+
+}
+#but1{
+    left: 15px;
+}
+#but2{
+    left: 20px;
+    width: 240px;
+}
+#but3{
+    left: 25px;
+   }
+#but4{
+    left: 30px;
+}
+#but5{
+    left: 35px;
+}
+
+
+.buttons {
+    position: relative;
+    top:85px;
+    border: 1px solid black;
+    width: 200px;
+    padding: 5px;
+    margin-bottom: 5px;
+    text-align: center;
+    background-color: green;
+    display: inline-block;
+    color: yellow;
+    font-family: Arial;
+    text-decoration: none;
+}
+
+
+#blockcontrol {
+	width: auto;
+	height: 120px;
+    margin-right: -10px;
+	left:0px;
+    right:0px;
+	background-image: url("images/navigation_image.jpg");
+	display: inline-block;
+	position: fixed;
+	top: 0px;
+    overflow: hidden;
+}
+.buttons:hover {
+	background-color: #00AA76;
+
+}

@@ -1,0 +1,11 @@
+#game {
+  background-image: url("images/background_gamefield.jpg");
+  background-attachment: scroll;
+}
+#sqrt{
+        width:255px;
+        height:255px;
+        margin-left: 200px;
+        margin-top: 200px; 
+        background-image: url(images/sqrt.jpg);
+    }
